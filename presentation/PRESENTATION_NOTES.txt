@@ -1,0 +1,33 @@
+# 5–7 Minute Presentation
+
+## Slide 1 — Title
+SMS Spam Detection Using Natural Language Processing
+
+## Slide 2 — What is NLP?
+NLP is a field of AI that helps computers work with human language.
+My selected NLP task is text classification.
+
+## Slide 3 — Dataset
+UCI SMS Spam Collection.
+Classes: Ham and Spam.
+
+## Slide 4 — Preprocessing
+Lowercase text, remove URLs/numbers/punctuation, tokenize, remove stop words, and lemmatize.
+
+## Slide 5 — TF-IDF
+TF-IDF converts text into numerical features that the machine-learning model can use.
+
+## Slide 6 — Model
+Multinomial Naive Bayes learns patterns in the TF-IDF features.
+
+## Slide 7 — Results
+Show the actual accuracy, classification report and confusion matrix produced by your notebook.
+
+## Slide 8 — Website
+Enter an SMS into the Gradio app and show the prediction.
+
+## Slide 9 — Conclusion
+Explain that the project goes from raw SMS text to preprocessing, numerical representation, classification, evaluation and a working demo.
+
+## Important
+Use the actual results produced by your notebook. Do not invent or copy result numbers.
